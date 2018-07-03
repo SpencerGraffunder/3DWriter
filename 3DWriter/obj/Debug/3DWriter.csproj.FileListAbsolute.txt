@@ -1,0 +1,378 @@
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\astrology.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\cursive.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\cyrilc_1.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\cyrillic.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\futural.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\futuram.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\gothgbt.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\gothgrt.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\gothiceng.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\gothicger.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\gothicita.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\gothitt.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\greek.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\greekc.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\greeks.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\hershey.txt
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\japanese.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\markers.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\mathlow.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\mathupp.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\meteorology.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\music.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\rowmand.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\rowmans.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\rowmant.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\scriptc.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\scripts.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\symbolic.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\timesg.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\timesi.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\timesib.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\timesr.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\timesrb.png
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\astrology.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\cursive.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\cyrilc_1.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\cyrillic.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\futural.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\futuram.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\gothgbt.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\gothgrt.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\gothiceng.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\gothicger.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\gothicita.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\gothitt.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\greek.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\greekc.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\greeks.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\japanese.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\markers.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\mathlow.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\mathupp.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\meteorology.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\music.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\rowmand.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\rowmans.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\rowmant.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\scriptc.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\scripts.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\symbolic.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\timesg.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\timesi.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\timesib.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\timesr.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\fonts\timesrb.h
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\3DWriter.exe.config
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\3DWriter.exe
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\bin\Debug\3DWriter.pdb
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\obj\Debug\_3DWriter.AboutBox.resources
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\obj\Debug\_3DWriter.Form1.resources
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\obj\Debug\_3DWriter.Properties.Resources.resources
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\obj\Debug\3DWriter.csproj.GenerateResource.Cache
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\obj\Debug\3DWriter.exe
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\obj\Debug\3DWriter.pdb
+C:\Users\chris\documents\visual studio 2015\Projects\3DWriter\3DWriter\obj\Debug\3DWriter.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\3DWriter.exe.config
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\obj\Debug\3DWriter.exe
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\obj\Debug\3DWriter.pdb
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\astrology.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\cursive.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\cyrilc_1.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\cyrillic.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\futural.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\futuram.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\gothgbt.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\gothgrt.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\gothiceng.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\gothicger.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\gothicita.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\gothitt.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\greek.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\greekc.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\greeks.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\hershey.txt
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\japanese.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\markers.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\mathlow.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\mathupp.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\meteorology.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\music.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\rowmand.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\rowmans.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\rowmant.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\scriptc.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\scripts.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\symbolic.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\timesg.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\timesi.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\timesib.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\timesr.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\timesrb.png
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\astrology.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\cursive.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\cyrilc_1.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\cyrillic.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\futural.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\futuram.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\gothgbt.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\gothgrt.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\gothiceng.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\gothicger.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\gothicita.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\gothitt.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\greek.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\greekc.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\greeks.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\japanese.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\markers.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\mathlow.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\mathupp.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\meteorology.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\music.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\rowmand.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\rowmans.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\rowmant.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\scriptc.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\scripts.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\symbolic.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\timesg.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\timesi.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\timesib.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\timesr.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\fonts\timesrb.h
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\3DWriter.exe
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\bin\Debug\3DWriter.pdb
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\obj\Debug\3DWriter.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\obj\Debug\_3DWriter.AboutBox.resources
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\obj\Debug\_3DWriter.Form1.resources
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\obj\Debug\_3DWriter.Properties.Resources.resources
+C:\Users\Cameron\Downloads\3DWriter-master\3DWriter\obj\Debug\3DWriter.csproj.GenerateResource.Cache
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\3DWriter.exe.config
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\obj\Debug\3DWriter.exe
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\obj\Debug\3DWriter.pdb
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\astrology.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\cursive.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\cyrilc_1.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\cyrillic.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\futural.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\futuram.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\gothgbt.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\gothgrt.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\gothiceng.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\gothicger.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\gothicita.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\gothitt.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\greek.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\greekc.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\greeks.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\hershey.txt
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\japanese.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\markers.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\mathlow.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\mathupp.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\meteorology.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\music.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\rowmand.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\rowmans.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\rowmant.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\scriptc.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\scripts.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\symbolic.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\timesg.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\timesi.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\timesib.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\timesr.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\timesrb.png
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\astrology.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\cursive.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\cyrilc_1.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\cyrillic.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\futural.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\futuram.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\gothgbt.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\gothgrt.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\gothiceng.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\gothicger.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\gothicita.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\gothitt.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\greek.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\greekc.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\greeks.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\japanese.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\markers.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\mathlow.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\mathupp.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\meteorology.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\music.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\rowmand.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\rowmans.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\rowmant.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\scriptc.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\scripts.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\symbolic.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\timesg.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\timesi.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\timesib.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\timesr.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\fonts\timesrb.h
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\3DWriter.exe
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\bin\Debug\3DWriter.pdb
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\obj\Debug\3DWriter.csprojResolveAssemblyReference.cache
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\obj\Debug\_3DWriter.AboutBox.resources
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\obj\Debug\_3DWriter.Form1.resources
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\obj\Debug\_3DWriter.Properties.Resources.resources
+C:\Users\Cameron\Downloads\old\3DWriter-master\3DWriter\obj\Debug\3DWriter.csproj.GenerateResource.Cache
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\3DWriter.exe.config
+D:\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\3DWriter.exe
+D:\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\3DWriter.pdb
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\astrology.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\cursive.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\cyrilc_1.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\cyrillic.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\futural.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\futuram.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothgbt.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothgrt.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothiceng.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothicger.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothicita.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothitt.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\greek.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\greekc.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\greeks.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\hershey.txt
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\japanese.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\markers.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\mathlow.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\mathupp.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\meteorology.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\music.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\rowmand.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\rowmans.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\rowmant.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\scriptc.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\scripts.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\symbolic.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesg.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesi.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesib.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesr.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesrb.png
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\astrology.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\cursive.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\cyrilc_1.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\cyrillic.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\futural.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\futuram.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothgbt.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothgrt.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothiceng.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothicger.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothicita.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothitt.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\greek.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\greekc.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\greeks.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\japanese.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\markers.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\mathlow.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\mathupp.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\meteorology.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\music.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\rowmand.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\rowmans.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\rowmant.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\scriptc.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\scripts.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\symbolic.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesg.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesi.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesib.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesr.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesrb.h
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\3DWriter.exe
+D:\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\3DWriter.pdb
+D:\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\3DWriter.csprojResolveAssemblyReference.cache
+D:\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\_3DWriter.AboutBox.resources
+D:\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\_3DWriter.Form1.resources
+D:\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\_3DWriter.Properties.Resources.resources
+D:\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\3DWriter.csproj.GenerateResource.Cache
+C:\Users\Cameron\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\3DWriter.exe.config
+C:\Users\Cameron\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\3DWriter.exe
+C:\Users\Cameron\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\3DWriter.pdb
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\astrology.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\cursive.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\cyrilc_1.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\cyrillic.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\futural.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\futuram.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothgbt.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothgrt.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothiceng.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothicger.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothicita.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothitt.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\greek.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\greekc.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\greeks.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\hershey.txt
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\japanese.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\markers.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\mathlow.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\mathupp.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\meteorology.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\music.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\rowmand.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\rowmans.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\rowmant.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\scriptc.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\scripts.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\symbolic.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesg.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesi.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesib.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesr.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesrb.png
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\astrology.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\cursive.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\cyrilc_1.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\cyrillic.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\futural.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\futuram.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothgbt.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothgrt.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothiceng.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothicger.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothicita.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\gothitt.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\greek.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\greekc.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\greeks.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\japanese.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\markers.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\mathlow.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\mathupp.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\meteorology.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\music.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\rowmand.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\rowmans.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\rowmant.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\scriptc.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\scripts.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\symbolic.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesg.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesi.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesib.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesr.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\fonts\timesrb.h
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\3DWriter.exe.config
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\3DWriter.exe
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\bin\Debug\3DWriter.pdb
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\3DWriter.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\_3DWriter.AboutBox.resources
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\_3DWriter.Form1.resources
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\_3DWriter.Properties.Resources.resources
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\3DWriter.csproj.GenerateResource.Cache
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\3DWriter.exe
+C:\Users\Spencer\Google Drive\Programs\3DWriter-master\3DWriter\obj\Debug\3DWriter.pdb
